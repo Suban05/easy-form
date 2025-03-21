@@ -1,6 +1,8 @@
 [![Build Status](https://github.com/Suban05/easy-form/workflows/CI/badge.svg)](https://github.com/Suban05/easy-form/actions)
 
-# Form generator
+# Easy form
+
+The simple form builder.
 
 ## Usage
 
