@@ -1,0 +1,6 @@
+easy_form:
+  form_fields: <form action="#" method="post"><label for="name">Name</label><input name="name" type="text" value="rob"><label for="job">Job</label><textarea name="job" cols="20" rows="40">programmer</textarea></form>
+  form_fields_with_additional_attrs: <form action="#" method="post"><label for="name">Name</label><input name="name" type="text" value="rob" class="user-input"><label for="job">Job</label><input name="job" type="text" value="programmer"></form>
+  default_attributes: <form action="#" method="post"><label for="job">Job</label><textarea name="job" cols="50" rows="55">programmer</textarea></form>
+  form_with_submit: <form action="#" method="post"><label for="name">Name</label><input name="name" type="text" value=""><label for="job">Job</label><input name="job" type="text" value="programmer"><input type="submit" value="Save"></form>
+  form_with_custom_submit: <form action="#" method="post"><label for="name">Name</label><input name="name" type="text" value=""><label for="job">Job</label><input name="job" type="text" value="programmer"><input type="submit" value="Wow" class="btn"></form>
