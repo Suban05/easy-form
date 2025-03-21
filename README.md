@@ -29,5 +29,5 @@ make install
 Then, you can run the tests with:
 
 ```bash
-rake test
+make test
 ```
